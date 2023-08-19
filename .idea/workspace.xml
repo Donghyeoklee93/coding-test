@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="670fa65e-a5d1-4093-8231-7456bf14a983" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/boj/BOJ2164.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/BOJ2164_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/BOJ10845.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/BOJ10845_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/BOJ2346.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcode1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcode1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +96,7 @@
       <updated>1691879234172</updated>
       <workItem from="1691879235591" duration="1729000" />
       <workItem from="1691912992032" duration="3638000" />
-      <workItem from="1692080708575" duration="3716000" />
+      <workItem from="1692080708575" duration="9741000" />
     </task>
     <servers />
   </component>
