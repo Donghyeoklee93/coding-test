@@ -34,7 +34,7 @@ public class BOJ2295_3 {
         int[] sumArray = new int[N * (N + 1) / 2];
         int sumArrayIndex = 0;
         for (int i = 0; i < N; i++) {
-            for (int j = 0; j < N; j++) {
+            for (int j = i; j < N; j++) {
                 sumArray[sumArrayIndex] = arr[i] + arr[j];
                 sumArrayIndex++;
             }
